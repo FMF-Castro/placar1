@@ -1,0 +1,59 @@
+{
+  "data": {
+    "updateLabel": "10h",
+    "goalSales": 6,
+    "goalContacts": 30,
+    "goalSims": 8,
+    "goalSalesInd": 2,
+    "alertLeads": 0,
+    "alertBelow": 0,
+    "consultants": [
+      {
+        "name": "Jean",
+        "leads": 53,
+        "contacts": 29,
+        "sims": 29,
+        "sales": 0,
+        "resp": 4,
+        "active": 1
+      },
+      {
+        "name": "Francisco",
+        "leads": 45,
+        "contacts": 35,
+        "sims": 35,
+        "sales": 0,
+        "resp": 2,
+        "active": 1
+      },
+      {
+        "name": "Andreo",
+        "leads": 34,
+        "contacts": 32,
+        "sims": 32,
+        "sales": 4,
+        "resp": 5,
+        "active": 1
+      },
+      {
+        "name": "Bruno",
+        "leads": 26,
+        "contacts": 13,
+        "sims": 13,
+        "sales": 0,
+        "resp": 5,
+        "active": 1
+      },
+      {
+        "name": "Gabriel",
+        "leads": 67,
+        "contacts": 27,
+        "sims": 27,
+        "sales": 1,
+        "resp": 1,
+        "active": 1
+      }
+    ],
+    "savedAt": "2026-03-18T20:49:20.490Z"
+  }
+}
